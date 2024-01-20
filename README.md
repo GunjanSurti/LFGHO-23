@@ -1,4 +1,4 @@
-# Gho-M ~ "Where Conversations and Transactions Converge"
+# Gho-M ~ "Where Conversations and Consensus Converge"
 GhoM is a Web3-based application designed for secure and smart payments and messaging. It leverages Non-Fungible Tokens (NFTs) to store messages securely and utilizes the Family SDK for payment wallet integration. The primary goal is to provide a decentralized and efficient platform for secure communication and payment processing.
 
 ## Features
